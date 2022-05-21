@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/mydashAssignment/static/css/main.266c8280.css",
-    "main.js": "/mydashAssignment/static/js/main.9a23ff7d.js",
+    "main.js": "/mydashAssignment/static/js/main.bddc51de.js",
     "static/media/background.png": "/mydashAssignment/static/media/background.82b8329dcc876529e981.png",
     "index.html": "/mydashAssignment/index.html",
     "main.266c8280.css.map": "/mydashAssignment/static/css/main.266c8280.css.map",
-    "main.9a23ff7d.js.map": "/mydashAssignment/static/js/main.9a23ff7d.js.map"
+    "main.bddc51de.js.map": "/mydashAssignment/static/js/main.bddc51de.js.map"
   },
   "entrypoints": [
     "static/css/main.266c8280.css",
-    "static/js/main.9a23ff7d.js"
+    "static/js/main.bddc51de.js"
   ]
 }
