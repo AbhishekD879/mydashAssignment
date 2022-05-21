@@ -12,7 +12,7 @@ import {
 function App() {
   return (
     <div className="App">
-  <BrowserRouter>
+  <BrowserRouter basename='/mydashAssignment'>
     <Routes>
       <Route exact path="/" element={<Homepage homepageRight={<HomePageLeft/>} homepageLeft={<HomePageRight/>} />}/>
       <Route path="/chart" element={<Chart/>}/>
